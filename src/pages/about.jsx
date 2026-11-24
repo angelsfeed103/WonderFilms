@@ -1,7 +1,7 @@
 const AboutPage = () => {
     return(
         <div className="about">
-            <h1>About Crypto App</h1>
+            <h1>About Wonder Films</h1>
             <p>
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore minus reiciendis aperiam.
             </p>
